@@ -1,2 +1,2 @@
 Get the user data
-run a new update::
+run a new update
