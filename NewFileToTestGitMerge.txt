@@ -1,0 +1,2 @@
+This file is used to test addition of new files to a branch
+before merging to main
