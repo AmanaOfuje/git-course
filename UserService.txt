@@ -3,4 +3,9 @@ run a new update
 
 #Testing how to branch a code in git
 create an avater for user
+<<<<<<< HEAD
 test conflic
+=======
+change 1 to branch2
+change 2 to branch2
+>>>>>>> branch2
