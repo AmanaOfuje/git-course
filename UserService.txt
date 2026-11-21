@@ -6,4 +6,3 @@ create an avater for user
 change 1 to branch2 but nut saved
 change 2 to branch2 in my database
 
-
