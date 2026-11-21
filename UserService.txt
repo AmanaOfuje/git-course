@@ -3,10 +3,7 @@ run a new update
 
 #Testing how to branch a code in git
 create an avater for user
-<<<<<<< HEAD
 change 1 to branch2 but nut saved
 change 2 to branch2 in my database
-=======
-change 1 to branch2  not taken in main yet
-change 2 to branch2  not taken in main yet
->>>>>>> branch2
+
+
