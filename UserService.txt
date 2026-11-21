@@ -1,9 +1,5 @@
 Get the user data
 run a new update
 
-#Testing how to branch a code in git
-create an avater for user
-change 1 to branch2 but nut saved
-change 2 to branch2 in my database
 
 
